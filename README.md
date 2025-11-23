@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto demonstra o desenvolvimento inicial de um website totalmente responsivo. A interface inclui botões personalizados e oferece uma experiência de usuário dinâmica através da funcionalidade de alternância entre os modos noturno e diurno, implementada com HTML, CSS , JavaScript e Figma.
+Este projeto demonstra o desenvolvimento inicial de um website totalmente responsivo. A interface inclui botões personalizados e oferece uma experiência de usuário dinâmica através da funcionalidade de alternância entre os modos noturno e diurno, implementada com HTML, CSS, JavaScript e Figma.
 
 ## 🔖 Layout
 
